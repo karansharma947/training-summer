@@ -1,4 +1,4 @@
-# 📊 Superstore Profit & Loss Predictor & Training Pipeline (`training-2`)
+# 📊 Superstore Profit & Loss Predictor & Training Pipeline (`training-summer`)
 
 [![Streamlit App](https://img.shields.io/badge/Streamlit-App%20Running-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](http://localhost:8501)
 [![Python Version](https://img.shields.io/badge/Python-3.12%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
@@ -13,7 +13,7 @@ An end-to-end Machine Learning project and interactive Streamlit web dashboard d
 ## 🔗 Quick Links & URLs
 
 - 🌐 **Local Web Application URL**: `http://localhost:8501`
-- 📁 **GitHub Project Repository**: [https://github.com/karansharma947/training-2](https://github.com/karansharma947/training-2)
+- 📁 **GitHub Project Repository**: [https://github.com/karansharma947/training-summer](https://github.com/karansharma947/training-summer)
 
 ---
 
